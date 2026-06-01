@@ -1,6 +1,6 @@
 # 料理手順動画における動詞翻訳データセット
 
-© 2026, 竹藤 樹，高田　一慶，後藤　功雄，二宮　崇，愛媛大学
+© 2026, Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University
 
 本リポジトリでは，料理手順動画における英語動詞の日本語翻訳を評価するためのデータセットを公開しています。
 
