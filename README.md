@@ -28,7 +28,6 @@ Each CSV file contains the following columns:
 
 | Column     | Description                    |
 | ---------- | ------------------------------ |
-| `id`       | Unique ID of the data instance |
 | `en`       | English cooking instruction    |
 | `ja`       | Japanese reference translation |
 | `video_id` | YouTube video ID               |
@@ -40,8 +39,8 @@ Each CSV file contains the following columns:
 An example entry is shown below.
 
 ```csv
-id,en,ja,video_id,start,end
-0,crack an egg and whisk,卵を割って溶きます,a0g9OPuNcwI,45,54
+en,ja,video_id,start,end
+crack an egg and whisk,卵を割って溶きます,a0g9OPuNcwI,45,54
 ```
 
 ## License
