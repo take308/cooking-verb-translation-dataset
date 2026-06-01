@@ -36,8 +36,7 @@ Each CSV file contains the following columns:
 
 ## License
 
-This dataset is released under the MIT License.
-
+This dataset is released under the [MIT License](LICENSE).
 Please note that this dataset does not include raw video files.
 The copyrights of the original videos belong to their respective owners.
 Users are responsible for checking the copyright and usage conditions of the original videos when using them.
