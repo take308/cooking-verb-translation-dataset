@@ -34,15 +34,6 @@ Each CSV file contains the following columns:
 | `start`    | Start time of the segment      |
 | `end`      | End time of the segment        |
 
-## Data Format
-
-An example entry is shown below.
-
-```csv
-en,ja,video_id,start,end
-crack an egg and whisk,卵を割って溶きます,a0g9OPuNcwI,45,54
-```
-
 ## License
 
 This dataset is released under the MIT License.
