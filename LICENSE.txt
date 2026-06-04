@@ -1,3 +1,12 @@
+This project includes data derived from the YouCook2-JP and YouCook2 datasets.
+
+- YouCook2: MIT License (see licenses/LICENSE_YOUCOOK2.txt)
+- YouCook2-JP: MIT License (see licenses/LICENSE_YouCook2-JP.txt)
+
+Modified by Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University (c) 2026.
+
+Released under the MIT License.
+
 MIT License
 
 Copyright (c) 2026 Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University
