@@ -36,10 +36,21 @@ Each CSV file contains the following columns:
 
 ## License
 
-This dataset is released under the [MIT License](LICENSE).
-Please note that this dataset does not include raw video files.
-The copyrights of the original videos belong to their respective owners.
-Users are responsible for checking the copyright and usage conditions of the original videos when using them.
+This dataset is released under the [MIT License](LICENSE.txt).
+
+This dataset includes data derived from the following datasets:
+
+- **YouCook2**
+  - **Source**: http://youcook2.eecs.umich.edu/
+  - **License**: MIT License
+  - **License file**: [licenses/LICENSE_YOUCOOK2.txt](licenses/LICENSE_YOUCOOK2.txt)
+  - **Original license URL**: http://youcook2.eecs.umich.edu/static/YouCookII/LICENSE_YOUCOOK2.txt
+
+- **YouCook2-JP**
+  - **Source**: https://github.com/nlab-mpg/YouCook2-JP/
+  - **License**: MIT License
+  - **License file**: [licenses/LICENSE_YouCook2-JP.txt](licenses/LICENSE_YouCook2-JP.txt)
+  - **Original license URL**: https://github.com/nlab-mpg/YouCook2-JP
 
 ## Citation
 
