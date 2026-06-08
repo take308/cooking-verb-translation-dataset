@@ -1,7 +1,5 @@
 # cooking-verb-translation-dataset
 
-© 2026, Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University
-
 This repository provides an English-Japanese dataset for verb translation in cooking procedure videos.
 
 ## Overview
@@ -35,6 +33,8 @@ Each CSV file contains the following columns:
 | `end`      | End time of the segment        |
 
 ## License
+
+© 2026, Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University
 
 This dataset is released under the [MIT License](LICENSE.txt).
 
