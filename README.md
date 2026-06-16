@@ -33,12 +33,7 @@ Each CSV file contains the following columns:
 | `end`      | End time of the segment        |
 
 ## License
-
-© 2026, Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University
-
-This dataset is released under the [MIT License](LICENSE.txt).
-
-This dataset includes data derived from the following datasets:
+This project includes data derived from the YouCook2-JP and YouCook2 datasets.
 
 - **YouCook2**
   - **Source**: http://youcook2.eecs.umich.edu/
@@ -51,6 +46,10 @@ This dataset includes data derived from the following datasets:
   - **License**: MIT License
   - **License file**: [licenses/LICENSE_YouCook2-JP.txt](licenses/LICENSE_YouCook2-JP.txt)
   - **Original license URL**: https://github.com/nlab-mpg/YouCook2-JP
+
+Modified by Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University (c) 2026.
+
+Released under the [MIT License](LICENSE.txt).
 
 ## Citation
 
