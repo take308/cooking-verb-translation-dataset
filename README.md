@@ -38,13 +38,13 @@ This project includes data derived from the YouCook2-JP and YouCook2 datasets.
 - **YouCook2**
   - **Source**: http://youcook2.eecs.umich.edu/
   - **License**: MIT License
-  - **License file**: [licenses/LICENSE_YOUCOOK2.txt](licenses/LICENSE_YOUCOOK2.txt)
+  - **License file**: [licenses/LICENSE_YOUCOOK2.txt](cooking-verb-translation-dataset/licences/LICENSE_YOUCOOK2-JP.txt)
   - **Original license URL**: http://youcook2.eecs.umich.edu/static/YouCookII/LICENSE_YOUCOOK2.txt
 
 - **YouCook2-JP**
   - **Source**: https://github.com/nlab-mpg/YouCook2-JP/
   - **License**: MIT License
-  - **License file**: [licenses/LICENSE_YouCook2-JP.txt](licenses/LICENSE_YouCook2-JP.txt)
+  - **License file**: [licenses/LICENSE_YouCook2-JP.txt](/home/takefuji/cooking-verb-translation-dataset/licences/LICENSE_YOUCOOK2-JP.txt)
   - **Original license URL**: https://github.com/nlab-mpg/YouCook2-JP
 
 Modified by Itsuki Takefuji, Kazuyoshi Takata, Isao Goto, and Takashi Ninomiya, Ehime University (c) 2026.
